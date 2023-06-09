@@ -1,2 +1,3 @@
-# my_python_sample
-Commit Python samples here
+How to use my repository
+
+Install python
